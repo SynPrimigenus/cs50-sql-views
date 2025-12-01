@@ -1,0 +1,1 @@
+SELECT "english_title", "artist", "brightness" FROM views ORDER BY brightnessSELECT DESC LIMIT 1;
